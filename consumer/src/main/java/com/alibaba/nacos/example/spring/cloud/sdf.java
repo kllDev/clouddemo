@@ -1,5 +1,4 @@
 package com.alibaba.nacos.example.spring.cloud;
 
-public class www {
-    sdfsdf
+public class sdf {
 }
